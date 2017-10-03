@@ -14,12 +14,12 @@
 
 Пример программы, печатающей числа от 0 до 9 (комменты не парсятся, нужно убирать):
 
-10 set max        //max = 0;
-0 set i           //i = 0;
-loop_start: 
-i max >= if stop  // while (i < max) {
-i print 1 call    //   print(i);
-pop
-i 1 + set i       //   i = i + 1;
-goto loop_start   // }
-stop:
+* 10 set max        //max = 0;
+* 0 set i           //i = 0;
+* loop_start: 
+* i max >= if stop  // while (i < max) {
+* i print 1 call    //   print(i);
+* pop
+* i 1 + set i       //   i = i + 1;
+* goto loop_start   // }
+* stop:

@@ -1,0 +1,9 @@
+10 set max
+0 set i
+loop_start:
+i max >= if stop
+i print 1 call
+pop
+i 1 + set i
+goto loop_start
+stop:

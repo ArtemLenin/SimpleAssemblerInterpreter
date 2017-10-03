@@ -1,0 +1,15 @@
+C:\Users\UncleLenin\Desktop\Assambler\Assambler\bin\Debug\Assambler.exe.config
+C:\Users\UncleLenin\Desktop\Assambler\Assambler\obj\Debug\Assambler.csprojResolveAssemblyReference.cache
+F:\Надо\Assambler\Assambler\obj\Debug\Assambler.csprojResolveAssemblyReference.cache
+F:\Надо\Assambler\Assambler\bin\Debug\Assambler.exe.config
+F:\Надо\Assambler\Assambler\bin\Debug\Assambler.exe
+F:\Надо\Assambler\Assambler\bin\Debug\Assambler.pdb
+F:\Надо\Assambler\Assambler\obj\Debug\Assambler.exe
+F:\Надо\Assambler\Assambler\obj\Debug\Assambler.pdb
+E:\Надо\Assambler\Assambler\obj\Debug\Assambler.csprojResolveAssemblyReference.cache
+E:\Надо\Assambler\Assambler\obj\Debug\Assambler.csproj.CoreCompileInputs.cache
+E:\Надо\Assambler\Assambler\obj\Debug\Assambler.exe
+E:\Надо\Assambler\Assambler\obj\Debug\Assambler.pdb
+E:\Надо\Assambler\Assambler\bin\Debug\Assambler.exe.config
+E:\Надо\Assambler\Assambler\bin\Debug\Assambler.exe
+E:\Надо\Assambler\Assambler\bin\Debug\Assambler.pdb
